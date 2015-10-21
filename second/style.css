@@ -1,0 +1,86 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+header {
+	width: 100%;
+	height: 50px;
+	background-color: #1eeeee;
+}
+
+footer {
+	width: 100%;
+	height: 50px;
+	background-color: #1eeeee;
+	clear: both;
+}
+
+.column {
+	width: 100%;
+	height: 100%;
+}
+
+.blue{
+	width: 33.333%;
+	height: 100%;
+	background-color:#297CCF;
+	float: left;
+
+}
+
+.tur {
+	width: 33.333%;
+	height:100%;
+	background-color: #47DABD;
+	float: left;
+}
+
+.green {
+	width:33.333%;
+	height: 100%;
+	float: left;
+	background-color:#94FF94;
+	float: left;
+	position: relative;
+}
+
+.red {
+	width:100%;
+	height: 20%;
+	background-color: darkred;
+	position: absolute;
+	bottom: 0;
+}
+
+p {
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 600%;
+	position: absolute;
+	height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

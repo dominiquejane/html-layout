@@ -1,0 +1,94 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+header, footer {
+	width: 100%;
+	height: 20px;
+	background-color: #eeeeee;
+
+}
+
+.wrapper {
+	width: 100%;
+	height: 700px;
+}
+
+.red {
+	background-color: red;
+	width:100%;
+	height: 90px;
+	padding:5px;
+}
+
+#box {
+	width: 90px;
+	height: 90px;
+	background-color: orange;
+	position: relative;
+
+}
+
+
+.text {
+	background-color: white;
+	width:100%;
+	max-height: 100%; /* This will make this box resize according to the size of the browser. This way the text is always visible. */
+	color: black;
+	vertical-align: middle;
+	text-align: center;
+
+}
+
+.green{
+	background-color: green;
+	width:100%;
+	height: 100px;
+}
+
+.blue {
+	background-color: blue;
+	width:100%;
+	height: 100px;
+}
+
+.indigo {
+	background-color: indigo;
+	width:100%;
+	height: 100px;
+}
+
+.violet {
+	background-color: violet;
+	width:100%;
+	height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
